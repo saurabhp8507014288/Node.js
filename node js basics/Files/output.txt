@@ -1,0 +1,2 @@
+Data read from input.txt: This is my first text file.. 
+Date created Sat Apr 06 2024 09:53:33 GMT+0530 (India Standard Time)
